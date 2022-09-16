@@ -1,3 +1,4 @@
+```
 matlab_getPosition
 ==================
 %GETPLOTPOSITION Returns the position of the window that is opened.
@@ -16,3 +17,4 @@ matlab_getPosition
 %   % Click Figure 1 and Ctrl-Click Figure 2. Select "Tile Vertically".
 %   % Close both figures. You now have the Position coordinates to create
 %   % plots that will always be displayed as such.
+```
